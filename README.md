@@ -29,7 +29,7 @@
 
 ### Submit your assignment
 
-- Please follow this tutorial to learn how to submit your assignment
+- Please follow this [guide](https://github.com/coding-ninjas-bootcamp/submission-guide) to learn how to submit your assignment
 
 ## Resources
 
