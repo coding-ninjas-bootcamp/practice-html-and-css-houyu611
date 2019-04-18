@@ -33,14 +33,14 @@
 
 ## Resources
 
-[In-class slides](https://slides.com/zicodeng/bootcamp-class-1#/)
+[In-class slides: introduction to HTML and CSS](https://slides.com/zicodeng/bootcamp-class-1#/)
 
-[Coding ninjas secrets on HTML](https://app.gitbook.com/@avocado/s/coding-ninjas-secrets/front-end/html)
+[Coding ninjas secrets: HTML](https://app.gitbook.com/@avocado/s/coding-ninjas-secrets/front-end/html)
 
-[Coding ninjas secrets on CSS](https://app.gitbook.com/@avocado/s/coding-ninjas-secrets/front-end/css)
+[Coding ninjas secrets: CSS](https://app.gitbook.com/@avocado/s/coding-ninjas-secrets/front-end/css)
 
-[W3Schools HTML tutorial](https://www.w3schools.com/htmL/html_intro.asp)
+[W3Schools: HTML tutorial](https://www.w3schools.com/htmL/html_intro.asp)
 
-[W3Schools CSS tutorial](https://www.w3schools.com/css/)
+[W3Schools: CSS tutorial](https://www.w3schools.com/css/)
 
-[W3Schools RWD](https://www.w3schools.com/css/css_rwd_intro.asp)
+[W3Schools: RWD](https://www.w3schools.com/css/css_rwd_intro.asp)
