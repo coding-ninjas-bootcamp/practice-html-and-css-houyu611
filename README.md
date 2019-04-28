@@ -33,7 +33,7 @@
 
 ## Resources
 
-[In-class slides: introduction to HTML and CSS](https://slides.com/zicodeng/bootcamp-class-1#/)
+[In-class slides: introduction to HTML and CSS](https://slides.com/zicodeng/coding-ninjas-bootcamp-class-1)
 
 [W3Schools: HTML tutorial](https://www.w3schools.com/htmL/html_intro.asp)
 
