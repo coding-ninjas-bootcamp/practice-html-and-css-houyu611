@@ -35,10 +35,6 @@
 
 [In-class slides: introduction to HTML and CSS](https://slides.com/zicodeng/bootcamp-class-1#/)
 
-[Coding ninjas secrets: HTML](https://app.gitbook.com/@avocado/s/coding-ninjas-secrets/front-end/html)
-
-[Coding ninjas secrets: CSS](https://app.gitbook.com/@avocado/s/coding-ninjas-secrets/front-end/css)
-
 [W3Schools: HTML tutorial](https://www.w3schools.com/htmL/html_intro.asp)
 
 [W3Schools: CSS tutorial](https://www.w3schools.com/css/)
