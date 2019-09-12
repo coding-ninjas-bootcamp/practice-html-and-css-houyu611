@@ -1,0 +1,40 @@
+        .list {
+            display: flex;
+        }
+        li {
+            display: list-item;
+            text-align: -webkit-match-parents;
+        }
+        .list-extraSpace{
+            margin-left: 64px;
+            display: inline-block;
+        }
+        .list_item{
+            margin-left: 24px;
+            display: inline-block;
+            position: relative;
+        }
+        .list_button{
+            background-color: transparent;
+            border: 1px solid #0069ff;
+            border-radius: 5px;
+            color: #0069ff;
+            cursor: pointer;
+            display:inline-block;
+            font-family: Sailec-Bold, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 14px;
+            line-height: 1;
+            margin: 0;
+            text-align: center;
+            vertical-align: middle;
+            padding: 11px 16px 8px;
+        }
+        .list_item_spaceRight {
+            margin-right: auto;
+        }
+        .welcome {
+            background-color: #0069ff;
+            min-height: 800px;
+            background-position: bottom;
+
+        }
